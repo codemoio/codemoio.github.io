@@ -1,3 +1,0 @@
-# Codemo
-
-## Interview Questions
